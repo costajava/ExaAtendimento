@@ -1,13 +1,6 @@
-# Sistema de Atendimento - BackEnd
-
-## Visão Geral
-
-Sistema completo de gerenciamento de atendimentos desenvolvido com:
-- **Backend:** ASP.NET Core 8.0 Web API
-- **Frontend:** Angular 20.1.0 com Material Design
+# Sistema de Atendimento e Suporte a Clientes - BackEnd
 
 ## Estrutura do Projeto
-
 ```
 ExaAtendimento/
 ├── ExaAtendimento.API/              # API REST
