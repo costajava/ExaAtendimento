@@ -1,0 +1,6 @@
+@ExaAtendimento.API_HostAddress = http://localhost:5253
+
+GET {{ExaAtendimento.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
