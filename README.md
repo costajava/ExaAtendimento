@@ -1,4 +1,4 @@
-# Sistema de Atendimento - Projeto Completo
+# Sistema de Atendimento - BackEnd
 
 ## Visão Geral
 
@@ -16,8 +16,6 @@ ExaAtendimento/
 ├── ExaAtendimento.InfraData/        # Camada de Infraestrutura (Repositories, EF Core)
 └── AtendimentoApp/                  # Frontend Angular
 ```
-
-## Backend (.NET)
 
 ### Tecnologias
 - ASP.NET Core 8.0
@@ -46,7 +44,6 @@ ExaAtendimento/
 ### Endpoints da API
 
 Todos os controllers seguem o padrão REST:
-
 ```
 GET    /api/{entity}           # Listar todos
 GET    /api/{entity}/{id}      # Obter por ID
